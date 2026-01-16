@@ -1,7 +1,7 @@
 # Hi 👋, I'm Smit Maru
 
 🎓 Computer Science & Engineering student at Darshan University  
-💻 Full Stack Developer | Software Development Engineering Intern @ GN WebSoft  
+💻 Full Stack Developer | Software Development Engineering Intern at [GN WebSoft](https://www.gnwebsoft.com/)  
 🌱 Currently learning NextJS, NestJS, ML/DL  
 📫 Email: smitmaru1226@gmail.com  
 
