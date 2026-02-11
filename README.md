@@ -38,9 +38,3 @@ I am a Computer Science & Engineering student at Darshan University with a passi
 - **LinkedIn:** [Smit Maru](https://linkedin.com/in/smit-maru-0193952a6)
 - **Email:** [smitmaru1226@gmail.com](mailto:smitmaru1226@gmail.com)
 - **Location:** Rajkot, Gujarat, India 📍
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S1226M&show_icons=true&theme=transparent&hide_border=true" alt="Smit's GitHub Stats" />
-</p>
