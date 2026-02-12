@@ -7,7 +7,7 @@ I am a Computer Science & Engineering student at Darshan University with a passi
 
 ### 🔗 Portfolio & Projects
 
-✨ **[➔ Go to my Portfolio Website](https://portfolio-lovat-eight-62.vercel.app/)**
+✨ **[➔ Go to my Portfolio Website](https://portfolio-7nvu-l8nf1p14p-smit-marus-projects.vercel.app/)**
 
 **Featured Work:**
 * **[Health Portal](https://github.com/S1226M/Health_Portal):** A robust OPD Management System built with Next.js, Prisma, and MySQL.
