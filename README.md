@@ -1,11 +1,11 @@
-# Hi 👋, I'm Smit Maru
+# Hi, I'm Smit Maru
 
-### 🚀 Full Stack Developer | SDE Intern at [GN WebSoft](https://www.gnwebsoft.com/)
+### Full Stack Developer | SDE Intern at [GN WebSoft](https://www.gnwebsoft.com/)
 I am a Computer Science & Engineering student at Darshan University with a passion for building scalable web applications and exploring the intersection of Software Engineering and Data Science.
 
 ---
 
-### 🔗 Portfolio & Projects
+### Portfolio & Projects
 
 [➔ View My Portfolio](https://portfolio-3p61tmo3b-smit-marus-projects.vercel.app/)  
 
@@ -18,7 +18,7 @@ I am a Computer Science & Engineering student at Darshan University with a passi
 * **[Health Portal](https://github.com/S1226M/Health_Portal):** A comprehensive clinical workflow solution featuring patient registration, doctor scheduling, and automated medical billing. Built with a complex relational schema using Next.js, Prisma, and MySQL to handle real-time OPD operations.
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category | Skills |
 | :--- | :--- |
@@ -30,14 +30,14 @@ I am a Computer Science & Engineering student at Darshan University with a passi
 
 ---
 
-### 📈 Currently Learning
-* 🏗️ **Backend Architecture:** Advanced NestJS for enterprise-scale microservices.
-* 🧠 **AI/ML:** Deep Learning patterns and clinical diagnostic algorithms.
-* ⚡ **Performance:** Optimizing Next.js server components and SQL query performance.
+### Currently Learning
+* **Backend Architecture:** Advanced NestJS for enterprise-scale microservices.
+* **AI/ML:** Deep Learning patterns and clinical diagnostic algorithms.
+* **Performance:** Optimizing Next.js server components and SQL query performance.
 
 ---
 
-### 📫 Connect with me
+### Connect with me
 - **LinkedIn:** [Smit Maru](https://linkedin.com/in/smit-maru-0193952a6)
 - **Email:** [smitmaru1226@gmail.com](mailto:smitmaru1226@gmail.com)
-- **Location:** Gujarat, India 📍
+- **Location:** Gujarat, India
