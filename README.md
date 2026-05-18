@@ -1,6 +1,6 @@
 # Hi, I'm Smit Maru
 
-### Full Stack Developer | SDE Intern at [GN WebSoft](https://www.gnwebsoft.com/)
+### Full Stack Developer
 I am a Computer Science & Engineering student at Darshan University with a passion for building scalable web applications and exploring the intersection of Software Engineering and Data Science.
 
 ---
