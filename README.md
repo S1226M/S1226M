@@ -9,7 +9,7 @@ I am a Computer Science & Engineering student at Darshan University with a passi
 
 [➔ View My Portfolio](https://portfolio-3p61tmo3b-smit-marus-projects.vercel.app/)  
 
-[➔ View My Resume](https://raw.githubusercontent.com/S1226M/S1226M/main/Smit_Maru03.pdf)
+[➔ View My Resume](https://github.com/S1226M/S1226M/raw/main/SmitMaru03.pdf)
 
 **Live Project:**
 * **[Heart Disease Analysis](https://heart-disease-analysis-ecmsdsg6rdaxtz6c67pdla.streamlit.app/):** An interactive data science application that analyzes cardiovascular health patterns and predicts disease risk using Machine Learning. Built with a focus on data visualization and clinical insights using Python and Streamlit.
