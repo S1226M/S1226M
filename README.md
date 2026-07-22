@@ -11,6 +11,11 @@ I am a Computer Science & Engineering student at Darshan University with a passi
 
 [➔ View My Resume](https://github.com/S1226M/S1226M/raw/main/SmitMaru03.pdf)
 
+**Live Project:**
+* **[Heart Disease Analysis](https://heart-disease-analysis-ecmsdsg6rdaxtz6c67pdla.streamlit.app/):** An interactive data science application that analyzes cardiovascular health patterns and predicts disease risk using Machine Learning. Built with a focus on data visualization and clinical insights using Python and Streamlit.
+
+**Upcoming / In Development:**
+* **[Health Portal](https://github.com/S1226M/Health_Portal):** A comprehensive clinical workflow solution featuring patient registration, doctor scheduling, and automated medical billing. Built with a complex relational schema using Next.js, Prisma, and MySQL to handle real-time OPD operations.
 ---
 
 ### Tech Stack
