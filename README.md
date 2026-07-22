@@ -7,7 +7,7 @@ I am a Computer Science & Engineering student at Darshan University with a passi
 
 ### Portfolio & Projects
 
-[➔ View My Portfolio](https://portfolio-gulff5c2n-smit-marus-projects.vercel.app/)
+[➔ View My Portfolio](https://portfolio-8mhtxo718-smit-marus-projects.vercel.app/)
 
 [➔ View My Resume](https://github.com/S1226M/S1226M/raw/main/SmitMaru03.pdf)
 
